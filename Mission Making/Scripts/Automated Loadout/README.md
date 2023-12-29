@@ -1,0 +1,2 @@
+These files are automated presets which will be assigned to player units depending on the variable name of the unit. A premade composition supporting these scripts exists [Here.](https://steamcommunity.com/sharedfiles/filedetails/?id=3126098602)
+In order to use the scripts, simply drag and drop them into your mission folder and ensure the players have the proper variable names. Making your own squad composition or loadout is easy but takes explaining that I won't bother with here, just ask in the dev chat instead.
