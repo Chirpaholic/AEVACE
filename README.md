@@ -1,2 +1,2 @@
 # CEVACE
-Mod settings, HTMLs, and documentation for CEV's Arma.
+Mod settings, HTMLs, and documentation for AEV's Arma.
